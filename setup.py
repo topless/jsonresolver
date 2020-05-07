@@ -54,7 +54,6 @@ setup_requires = [
 install_requires = [
     'six>=1.12.0',
     'pluggy>=0.10.0,<1.0',
-    'werkzeug>=1.0.0',
 ]
 
 packages = find_packages()
